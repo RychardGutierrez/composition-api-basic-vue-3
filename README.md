@@ -28,6 +28,24 @@ Notes:
 
 - Router lifecycle hooks
 
+- Llamar getters mediante objetos computados
+
+- Usar el store dentro del Setup
+
+- Uso del store dentro de un composable function
+
+- Realizar commits de mutaciones
+
+- Trabajar con Slots
+
+- Named slots
+
+- Scoped slots
+
+- Default slot
+
+- Creación de modal sin paquetes de terceros
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).

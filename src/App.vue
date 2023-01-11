@@ -13,8 +13,10 @@ import { RouterLink, RouterView } from 'vue-router'
         <RouterLink to="/">Home</RouterLink> |
         <RouterLink to="/about">About</RouterLink> |
         <RouterLink :to="{ name: 'counter' }">Counter</RouterLink> |
-        <RouterLink :to="{ name: 'users' }">Users</RouterLink>
-        <RouterLink :to="{ name: 'pokemon-search' }">Pokemon Search</RouterLink>
+        <RouterLink :to="{ name: 'users' }">Users</RouterLink> |
+        <RouterLink :to="{ name: 'pokemon-search' }">Pokemon Search</RouterLink> |
+        <RouterLink :to="{ name: 'to-do' }">To Do List</RouterLink> |
+        <RouterLink :to="{ name: 'slots' }">Custom Slots</RouterLink>
       </nav>
     </div>
   </header>
